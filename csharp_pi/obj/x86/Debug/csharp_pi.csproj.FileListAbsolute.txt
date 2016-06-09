@@ -1,0 +1,7 @@
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\bin\Debug\csharp_pi.exe
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\bin\Debug\csharp_pi.pdb
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\obj\x86\Debug\csharp_pi.Form1.resources
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\obj\x86\Debug\csharp_pi.Properties.Resources.resources
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\obj\x86\Debug\csharp_pi.csproj.GenerateResource.Cache
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\obj\x86\Debug\csharp_pi.exe
+c:\users\정성민\documents\visual studio 2010\Projects\csharp_pi\csharp_pi\obj\x86\Debug\csharp_pi.pdb
